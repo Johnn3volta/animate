@@ -1,0 +1,13 @@
+@import "../libs/font-awesome-4.7.0/scss/font-awesome";
+//@import "../../node_modules/normalize.scss/normalize";
+
+@import "global/vars";
+@import "global/fonts";
+@import "global/libs";
+@import "global/base";
+@import "global/_mixins/centered";
+@import "global/icons";
+@import "sections/example";
+
+
+@import "global/media";  // Always at the end
